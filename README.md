@@ -2,7 +2,7 @@
 
 # Hi, I’m Fulvio 👋
 
-### University student · IT enthusiast · Curious builder
+### University Computer Science student · IT enthusiast · Curious builder
 
 I enjoy finding practical ways to use technology, from building websites to automating everyday tasks.
 
@@ -23,25 +23,10 @@ I enjoy finding practical ways to use technology, from building websites to auto
 
 ## 🧰 Tools I’ve worked with
 
-**Development:** Python · MySQL · Git · GitHub  
+**Development:** Java · Python · MySQL · Git · GitHub  
 **Web:** WordPress · HTML · CSS  
 **Other:** Google Workspace · Excel · Canva
 
-## 🚀 Projects
-
-Choose a few projects you’re proud of and replace the examples below with their repository links.
-
-| Project | What it does |
-| --- | --- |
-| [Project name](https://github.com/FiryFoxy/REPLACE_WITH_REPO) | A short description of the problem it solves and what you built. |
-| [Project name](https://github.com/FiryFoxy/REPLACE_WITH_REPO) | A second project, ideally one with a demo, screenshots, or clear setup instructions. |
-
-## 📫 Find me
-
-- [LinkedIn](https://linkedin.com/in/fulvio-giulio-pavan)
-- [Email](mailto:fgpavan@studenti.uninsubria.it)
-
----
 
 <div align="center">
 
