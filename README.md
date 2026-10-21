@@ -21,6 +21,19 @@ I enjoy finding practical ways to use technology, from building websites to auto
 - 🤝 Interested in practical projects, learning by doing, and collaborating with others
 - 🌍 Based in Italy
 
+## 🛠️ Featured Project
+
+### Customer Merge Tool
+
+A macOS GUI app for finding and safely merging duplicate customer records in a MySQL database. It guides users through each merge, reassigns related data, and provides CSV or MySQL backups.
+
+- 🔎 Detects duplicate customers
+- 🛡️ Uses database transactions and blocks merges when both customers have financial records
+- 💾 Supports backups after merging
+- 🖥️ Built with Python 3.11.1 for macOS
+
+**Tech:** Python · MySQL
+
 ## 🧰 Tools I’ve worked with
 
 **Development:** Java · Python · MySQL · Git · GitHub  
